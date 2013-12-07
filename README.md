@@ -2,6 +2,15 @@ ELGG FRENCH TRANSLATIONs
 ========================
 FRENCH TRANSLATIONs of Elgg's Core + Plugin
 
+http://community.elgg.org/pages/view/1536374/traductions-en-francais-elgg-en-francais
+
+
+http://community.elgg.org/plugins/862377/1.0/my-cool-french-pack
+http://community.elgg.org/plugins/823113/1.3/french-translation-for-elgg-v1813
+http://community.elgg.org/plugins/1437281/1.0/french-language-pack-60-plugins
+
+
+
 Mix/Synthèse & corrections des traductions suivantes:
 * https://github.com/ManUtopiK/elgg-1.8-fr
 * https://github.com/duclos/elgg-1.8-fr
